@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hiccup/static/css/main.df5ffb09.chunk.css",
+    "main.js": "/hiccup/static/js/main.48af3fc3.chunk.js",
+    "main.js.map": "/hiccup/static/js/main.48af3fc3.chunk.js.map",
+    "runtime~main.js": "/hiccup/static/js/runtime~main.e5cbff15.js",
+    "runtime~main.js.map": "/hiccup/static/js/runtime~main.e5cbff15.js.map",
+    "static/js/2.d218113e.chunk.js": "/hiccup/static/js/2.d218113e.chunk.js",
+    "static/js/2.d218113e.chunk.js.map": "/hiccup/static/js/2.d218113e.chunk.js.map",
+    "index.html": "/hiccup/index.html",
+    "precache-manifest.1e3f16b24dec4f5aa869b9adda4efc9e.js": "/hiccup/precache-manifest.1e3f16b24dec4f5aa869b9adda4efc9e.js",
+    "service-worker.js": "/hiccup/service-worker.js",
+    "static/css/main.df5ffb09.chunk.css.map": "/hiccup/static/css/main.df5ffb09.chunk.css.map",
+    "static/media/style.css": "/hiccup/static/media/OpenSans-Regular-webfont.c8ffdeb3.woff",
+    "static/media/dashboard.css": "/hiccup/static/media/dot.03abf6a1.svg",
+    "static/media/joker.jpg": "/hiccup/static/media/joker.89ffae1c.jpg",
+    "static/media/victory2.gif": "/hiccup/static/media/victory2.94d2a33e.gif"
+  }
+}
