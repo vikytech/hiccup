@@ -4,7 +4,7 @@
   "description": "frontend for nightfury",
   "keywords": [],
   "main": "index.js",
-  "homepage": "https://vikytech.github.io/hiccup",
+  "homepage": "http://virtualgames.geeknight.in",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "classnames": "2.2.6",
